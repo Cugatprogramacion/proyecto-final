@@ -14,7 +14,7 @@ function ProjectCard({ project }) {
           </h5>
           <p className="card-text">{project.description}</p>
           <a href={project.link} target="_blank" className="btn btn-primary w-100" rel="noopener noreferrer">
-            Ver Proyecto
+            Pagina Web
           </a>
         </div>
       </div>

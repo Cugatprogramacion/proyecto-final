@@ -11,7 +11,7 @@ const seedProjects = [
     title: 'Github',
     description: 'Mi Repositorio de Github .',
     image: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
-    link: 'https://github.com/Cugatprogramacion/Trabajofinal'
+    link: 'https://github.com/Cugatprogramacion/proyecto-final'
   },
   {
     title: 'Institucion donde aprendi',
